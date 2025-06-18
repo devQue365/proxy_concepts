@@ -1,6 +1,5 @@
 import csv
 import aiohttp
-import asyncio
 
 
 TIMEOUT = 10
